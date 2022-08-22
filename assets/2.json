@@ -1,0 +1,19 @@
+{
+  "name": "CHIWAWA",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HYaLGf6KmzMfYEBCuFoaHPZvSiT8YhhSkiffNRK5cNJH",
+        "share": 100
+      }
+    ]
+  }
+}
